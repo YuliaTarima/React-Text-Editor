@@ -7,4 +7,5 @@
 <li>Styled components</li>
 <li>GraphQL</li>
 <li>highlight.js</li>
+<li>shakespeare-api</li>
 </ol>
