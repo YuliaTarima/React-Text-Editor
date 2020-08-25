@@ -2,4 +2,6 @@
 
 ## Technologies Used:
 Create React App,
-Styled components
+Styled components,
+GraphQL,
+highlight.js
