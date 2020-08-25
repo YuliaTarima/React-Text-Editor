@@ -1,7 +1,10 @@
 # React-Text-Editor
 
 ## Technologies Used:
-Create React App,
-Styled components,
-GraphQL,
-highlight.js
+<ol>
+<li>Create React App</li>
+<li>Class Based React</li>
+<li>Styled components</li>
+<li>GraphQL</li>
+<li>highlight.js</li>
+</ol>
